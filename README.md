@@ -6,4 +6,4 @@ Una pantalla LCD muestra 4 líneas, con 20 caracteres por línea.
 
 ![image](https://user-images.githubusercontent.com/93297400/190499489-c9fc8fbb-15cc-483a-8ba7-d8caaba80a4e.png)
 
-
+![image](https://images.theengineeringprojects.com/image/webp/2019/11/Introduction-to-20-x-4-LCD-Module.jpg.webp?ssl=1)
