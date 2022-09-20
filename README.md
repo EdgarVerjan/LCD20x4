@@ -11,9 +11,15 @@ Una pantalla LCD muestra 4 líneas, con 20 caracteres por línea.
 
 
 Ventajas:
+
 Es menos costoso, ligero en comparación con la pantalla del tubo de rayos catódicos.
+
 Utiliza menos energía de acuerdo con la resolución de brillo.
+
 Produce menos cantidad de calor debido a un menor uso de energía.
+
 En este módulo, no hay distorsión geométrica.
+
 Se puede construir en cualquier forma y tamaño de acuerdo con los requisitos del usuario.
+
 La pantalla LCD utilizada en el monitor de la computadora utiliza doce voltios.
