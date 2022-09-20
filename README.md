@@ -25,6 +25,17 @@ Se puede construir en cualquier forma y tamaño de acuerdo con los requisitos de
 La pantalla LCD utilizada en el monitor de la computadora utiliza doce voltios.
 
 
+Desventajas:
+
+En algunos módulos LCD más antiguos, hay algunos problemas debido al ángulo de visión y el brillo.
+
+Pierde brillo y funciona a menos tiempo de respuesta con el incremento de la temperatura.
+
+Con el incremento de la temperatura circundante, su contraste también perturba.
+
+
+
+
 | Numero de pin | Nombre del pin                                         | Parametro                                                              |
 |---------------|--------------------------------------------------------|------------------------------------------------------------------------|
 | Pin #1        | Se denota como Vss                                     | Es el potencial de pinout de tierra en este pinout es cero.            |
