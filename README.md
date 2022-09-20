@@ -23,3 +23,16 @@ En este módulo, no hay distorsión geométrica.
 Se puede construir en cualquier forma y tamaño de acuerdo con los requisitos del usuario.
 
 La pantalla LCD utilizada en el monitor de la computadora utiliza doce voltios.
+
+
+| Numero de pin | Nombre del pin                                         | Parametro                                                              |
+|---------------|--------------------------------------------------------|------------------------------------------------------------------------|
+| Pin #1        | Se denota como Vss                                     | Es el potencial de pinout de tierra en este pinout es cero.            |
+| Pin #2        | Se denota como Vdd                                     | En este pinout, se proporcionan cinco voltios.                         |
+| Pin #3        | Este pinout denotado como Vo                           | Este pinout se utiliza para establecer el contraste de la pantalla.    |
+| Pin #4        | Este pin denotado como RS                              | Solía registrar H/L la señal de selección.                             |
+| Pin #5        | Se denota como R/W                                     | Se utiliza para la señal de lectura/escritura H/L.                     |
+| Pin #6        | Este pinout denotado como E                            | Se utiliza para la señal de habilitación de H / L.                     |
+| Pin #7-14     | Los pines de siete a catorce denotados como DB0 – DB7. | Se utiliza para el bus de datos H / L para el modo de 4 bits u 8 bits. |
+| Pin #15       | Se identificó como A (LED+)                            | Solía configurar el ánodo de luz de fondo.                             |
+| Pin #16       | Se reconoce como K (LED-).                             | Solía establecer cátodos de retroiluminación.                          |
