@@ -1,7 +1,7 @@
 # LCD 20x4
 
 La pantalla LCD 20x4 (conocido también como display LCD 20x4) es un dispositivo que permite la presentación de caracteres alfanuméricos y otros simbolos en un formato de 20 caracteres por línea, en 4 líneas.
-La pantalla LCD significa pantalla de cristal líquido (liquid crystal display), que funciona en las características de modulación de luz de los cristales líquidos. Está disponible en pantalla electrónica visible, pantalla de video y pantalla plana. Existen numerosas categorías y características que son salidas en los mercados de LCD y puedes verlo en tu pantalla de móvil, portátil, ordenador y televisión.
+La pantalla LCD significa liquid crystal display (pantalla de cristal líquido), que funciona en las características de modulación de luz de los cristales líquidos. Está disponible en pantalla electrónica visible, pantalla de video y pantalla plana. Existen numerosas categorías y características que son salidas en los mercados de LCD y puedes verlo en tu pantalla de móvil, portátil, ordenador y televisión.
 
 Una pantalla LCD muestra 4 líneas, con 20 caracteres por línea.
 
