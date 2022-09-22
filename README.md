@@ -4,7 +4,7 @@ La pantalla LCD 20x4 (conocido también como display LCD 20x4) es un dispositivo
 
 ![image](https://user-images.githubusercontent.com/93297400/190499489-c9fc8fbb-15cc-483a-8ba7-d8caaba80a4e.png)
 
-La pantalla LCD significa liquid crystal display (pantalla de cristal líquido), que funciona en las características de modulación de luz de los cristales líquidos. Está disponible en pantalla electrónica visible, pantalla de video y pantalla plana. Existen numerosas categorías y características que son salidas en los mercados de LCD y puedes verlo en tu pantalla de móvil, portátil, ordenador y televisión.
+El significado de las siglas es liquid crystal display (pantalla de cristal líquido), que funciona en las características de modulación de luz de los cristales líquidos. Está disponible en pantalla electrónica visible, pantalla de video y pantalla plana. Existen numerosas categorías y características que son salidas en los mercados de LCD y puedes verlo en tu pantalla de móvil, portátil, ordenador y televisión.
 
 ![image](https://images.theengineeringprojects.com/image/webp/2019/11/Introduction-to-20-x-4-LCD-Module.jpg.webp?ssl=1)
 
